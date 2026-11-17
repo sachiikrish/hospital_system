@@ -1,0 +1,16 @@
+DOCTOR KNOWLEDGE
+
+D1:
+Doctor ID: D101
+Name: Dr. Sharma
+Specialization: Cardiology
+
+D2:
+Doctor ID: D102
+Name: Dr. Verma
+Specialization: Neurology
+
+D3:
+Doctor ID: D103
+Name: Dr. Gupta
+Specialization: Orthopedics
