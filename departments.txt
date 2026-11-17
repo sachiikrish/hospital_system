@@ -1,0 +1,13 @@
+HOSPITAL DEPARTMENTS
+
+1. Cardiology
+   Handles heart-related healthcare services.
+
+2. Neurology
+   Handles nervous system-related healthcare.
+
+3. Orthopedics
+   Handles bone and joint-related healthcare.
+
+4. Emergency
+   Provides emergency assessment and care.
