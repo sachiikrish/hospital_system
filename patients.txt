@@ -1,0 +1,19 @@
+PATIENT KNOWLEDGE
+
+P1:
+Patient ID: P101
+Name: Rahul
+Age: 35
+Department: Cardiology
+
+P2:
+Patient ID: P102
+Name: Priya
+Age: 28
+Department: Neurology
+
+P3:
+Patient ID: P103
+Name: Aman
+Age: 42
+Department: Orthopedics
